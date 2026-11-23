@@ -17,6 +17,11 @@
 
   <h2 align="center">Electricity Consumption Analysis and Forecasting</h2>
 
+  <p align="center">
+    A beginner-friendly Python mini project that analyses daily electricity usage and predicts the next 30 days.
+    <br />
+    <br />
+  </p>
 </div>
 
 ---------------------------------------
